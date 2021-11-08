@@ -11,7 +11,7 @@ import javax.swing.UIManager;
 
 /**
  *
- * @author Milena
+ * @authors Sergio, Brayan, Santiago, Andres
  */
 public class MiPyme {
 
